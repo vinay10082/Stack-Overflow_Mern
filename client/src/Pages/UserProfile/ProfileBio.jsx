@@ -31,6 +31,7 @@ const ProfileBio = ({currentProfile}) => {
                     )
                 }
             </div>
+            
         </div>
     )
 }
