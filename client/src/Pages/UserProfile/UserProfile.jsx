@@ -46,8 +46,8 @@ const UserProfile = () => {
                 <section>
                     <div className="user-details-container">
                         <div className='user-details'>
-                            <Avatar backgroundColor="purple" color='white' fontSize='50px' px='40px' py='30px'>
-                                {currentProfile?.name.charAt(0).toUpperCase()}
+                            <Avatar backgroundColor="purple" color='white' fontSize='100px' px='30px' py='10px'>
+                                <b>{currentProfile?.name.charAt(0).toUpperCase()}</b>
                             </Avatar>
                             <div className="user-name">
                                 <h1>{currentProfile?.name}</h1>
