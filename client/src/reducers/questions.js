@@ -6,6 +6,8 @@ const questionsReducer = (state= {data: null}, action) => {
             return { ...state }
         case 'FETCH_ALL_QUESTIONS':
             return { ...state, data: action.payload}
+        // case 'FETCH_QUESTION':
+        //     return { ...state, data: action.payload}
         default:
             return state
     }

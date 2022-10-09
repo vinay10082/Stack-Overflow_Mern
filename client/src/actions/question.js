@@ -58,3 +58,23 @@ export const deleteAnswer = (id, answerId, noOfAnswers) => async (dispatch) => {
         console.log(error)
     }
 } 
+
+// Chatbot search question
+// export const askAnyQuestion = (questionData, navigate) => async (dispatch) => {
+//     try {
+//         const { data } = await api.postQuestion(questionData)
+//         dispatch({ type: "POST_QUESTION", payload: data})
+//         dispatch(fetchQuestion())
+//         navigate(`/Questions/${data._id}`)
+//     } catch (error) {
+//         console.log(error)
+//     }
+// }
+// export const fetchQuestion = () => async (dispatch) => {
+//     try {
+//         const { data } = await api.getAllQuestions()
+//         disptach({ type: 'FETCH_QUESTION', payload: data})
+//     } catch (error) {
+//         console.log(error)
+//     }
+// }

@@ -9,6 +9,7 @@ import downvote from '../../assets/sort-down.svg'
 import './Questions.css'
 import Avatar from '../../components/Avatar/Avatar'
 import DisplayAnswer from './DisplayAnswer'
+import Bot from '../../components/HomeMainbar/bot'
 import { postAnswer, deleteQuestion, voteQuestion } from '../../actions/question'
 
 const QuestionsDetails = () => {
@@ -181,6 +182,7 @@ const QuestionsDetails = () => {
                     }
                 </>
             }
+            <Bot />
         </div>
     )
 }
