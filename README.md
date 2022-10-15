@@ -1,6 +1,4 @@
 # Stack-Overflow_Mern
-![Screenshot (12)](https://user-i![Screenshot (13)](https://user-images.githubusercontent.com/77240888/194702194-3afe678b-dfc7-45d9-9f44-9e7680932e3d.png)
-mages.githubusercontent.com/77240888/194702183-e60bbdc9-23bd-4688-99d8-5d629d37c57a.png)
 ![Screenshot (14)](https://user-images.githubusercontent.com/77240888/194702228-8da6ea8a-5e49-4e59-9ee0-c683296b9546.png)
 ![Screenshot (15)](https://user-images.githubusercontent.com/77240888/194702235-e1e0dcfb-d73c-4879-8615-bfec3570a549.png)
 ![Screenshot (16)](https://user-images.githubusercontent.com/77240888/194702238-6062cdd8-f4d8-4563-b91f-45e05f963e63.png)
